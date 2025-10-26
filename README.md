@@ -1,4 +1,5 @@
-<img width="462" height="78" alt="Logo Openclassrooms" src="https://github.com/user-attachments/assets/ef8ab7d0-9413-470e-8fd4-e9c6dc2bdac9" />
+<img width="475" height="79" alt="image" src="https://github.com/user-attachments/assets/557988bc-63ff-458b-96e5-6293ed27cc80" />
+
 # BIA Formation
 Vous trouverez ici tous les éléments relatifs à ma formation de "**Business Intelligence Analyst**" (diplôme de niveau 6)
 

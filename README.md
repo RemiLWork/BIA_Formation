@@ -7,5 +7,7 @@ Elle a duré 9 mois et m'a permi de réaliser 11 projets :
 
 <img width="1343" height="469" alt="image" src="https://github.com/user-attachments/assets/49e1c35b-a374-4dad-af1c-c82537669ed8" />
 
+# BIA Formation, liste des cours suivis
+<img width="1716" height="1031" alt="Listes Cours Suivis" src="https://github.com/user-attachments/assets/4654fa4c-09a6-4b9c-aad8-0ac290d2d5e6" />
 
 
